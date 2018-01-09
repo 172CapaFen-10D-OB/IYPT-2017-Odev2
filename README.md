@@ -23,63 +23,27 @@ Daha kapsamlı bir ödev için daha önce yapılmış
 ## Aşağıdaki Başlıkları İçini Doldurunuz. (Özet kısmını daha önce yazmıştınız.) 
 
 # Özet (Abstract)
-Buraya Ödev-1'de yazdığınız özeti yazınız. 
+Domino Bu deneyde domino taşlarından,açıölçerden,ipten , ipin bağlı olduğu ağırlıktan ve açı ölçeri sabitleyen düzenekten   yararlanacağız.Amacımız:Domino taşlarının birbirini düşürerek oluşturduğu hızın ,ağırlığın bırakılma açısıyla ve kullanılan domino taşlarının arasındaki mesafeyle olan ilgisini açıklamak. Ağırlığın bırakılma açısının ve domino taşları arasındaki mesafenin bu deneye etkisini araştırabilmek için deneydeki diğer değişkenleri sabit tutuyoruz. Örneğin ağırlığın bırakılma hızı ve domino taşlarının özdeş olması gibi değişkenleri sabit tutuyoruz. # Yapılışı:Domino taşlarını eşit aralıklarla rüzgarsız bir ortamda düz bir zemine diziyoruz.İpe bağlı olan ağırlığı domino taşlarını düzgün bir şekilde devirecek biçimde bırakıyoruz.Açıyı da hesaba katıp düşme süresine bağlı olarak domino taşla- rının düşme hızını hesaplıyoruz.Aynı deneyi ağırlığı bıraktığımız açıyı değiştirerek tekrar yapıyoruz .Açıyı sırasıyla daha büyük ve daha küçük seçerek açıyla düşme hızının orantısını gözlemleyebiliriz.Bir sonraki adımda ise domino taşları arasındaki mesafeyi değiştirerek domino taşları arasındaki mesafenin değişmesinin domino taşlarının düşme hızına etkisini de gözlemleyebiliriz.Bu şekilde değişkenleri sırayla değiştirmemizin nedeni her değişkenin deneye nasıl bir etkisi olduğunu gözlemlemek istememiz.  #Sonuçlar:Deneyin değişkenlerinin sabit tutulmadığı göz önünde bulundurulursa domino taşlarının arasındaki mesafenin değişmesi ve ipe bağlı ağırlığın bırakılırken ki açısının değiştirilmesi domino taşlarının hepsinin yere düşme süresi toplamını etkilediğine göre dolayısıyla domino taşlarının da yere düşme hızını etkiler ve deneydeki her değişken değiştirildiğinde farklı bir sonuç elde edilir  Kaynakçalar  1- www.yardimcikaynaklar.com/kinetik-enerjiyi-tanıyalım/ 2- www.ocw.metu.edu.tr 3- www.iypt.org
 # Giriş (Introduction)
-Bu bölüm; 
-literatür
-taramasından sonra araştırmanın amacı, problem  ve alt problemler, hipotezler ve alt 
-hipotezler, varsayımlar (
-yapılan kabuller
-), sınırlılıklar, tanımlar alt başlıklarına yer verilecek olan bölümdür. 
-Bu bölümde
-literatür
-araştırması yaparken ve çalışmanızı desteklemek üzere alıntı yaparken proje çalışmanızın 
-konusu ile ilgili başkalarının yaptığı çalışmalardan söz ediniz. Sizin çalışmanızın 
-diğer 
-benzer çalışmalardan ayrılan 
-yönlerini belirtiniz. Bu çalışmayı, 
-literatürde
-ki 
-hangi boşluğu doldurmak için yaptığınızı ve 
-literatürde
-yer  alan 
-benzer çalışmalardan neyi nasıl farklı yapacağınızı açıklayınız. Benzer çalışmalardan nasıl yararlandığınızı ve sizin 
-çalışmanızın neleri hedeflediğini açıklayınız. Bu bölümde kaynakça gösterimi yapınız. 
+Normalde oyun oynamak amacıyla kullanılan domino taşlarından yararlanılarak yapılan bu deneyi seçmemizin nedeni lise öğrencilerinin rahatlıkla yapabileceği bir deney olmasıdır.Domino taşlarından yararlanarak deneyin maximum hızını bulmayı amaçladık.
 # Materyal ve Yöntem (Experimental Setup)
-
-Bu bölümde aşağıdaki kısımla
-ra ve alt başlıklara yer verilir
-
-* Çalışmanın yöntemi veya araştırma deseni,
-* Çalışma  grubunuz,  evreniniz,  örnekleminiz 
-(çalışmanızda  kişilerden  veri  toplamışsanız),  çalışma 
-sahanız, yeriniz ve bunların özellikleri,
-* Veri toplama araçlarınızın neler olduğu, onları  siz geliştirdiyseniz bunu nasıl yaptığınız ve  veri 
-toplama süreciniz,
-* Gözlemlerinizi, saha çalışmalarınızı ve bu
-nları nasıl gerçekleştirdiğiniz, verileri nasıl analiz ettiğiniz ve 
-bunun için hangi araç ya da yazılımları kullandığınız,
-* Deney düzenekleri, malzemeleri ve deneysel süreçleri (deneysel bir çalışma ise)
-
-Deneysel çalışmalarda deney düzeneği, verilerin nasıl toplandığı açıkça anlatılmalıdır. Deney düzeneğindeki 
-önemli ölçüm cihazlarının (ne olduğu, ölçüm aralığı, duyarlılığı vb.) kimyasal ve biyolojik malzemenin temel 
-özellikleri  belirtilmelidir.  
-
-Örneğin  bir voltmetre  kullanılıyorsa  bunun  ölçme  aralığı 0-220V, iç impedansı 10 Mohm olan bir voltmetre olarak belirtilmesi, ya da optik özellikleri incelenen bir cam 
-levhanın 25 mmx10 mmx1 mm boyutlarında, görünür bölgedeki ışığı geçiren bir cam plaka şeklinde tanımlanması 
-uygun olacaktır. 
-
-* Deneylerin nerede, kimler tarafından yapıldığı, ne kadar sürdüğü ve kaç kez hangi koşullar altında 
-tekrarlandığı gibi bilgilerin açık, öz ve anlaşılır bir şekilde verilmesi gerekir. Bu kısımd
-a çalışılan 
-laboratuvarın özellikleri de belirtilmelidir. 
-
-* Kullanılan analiz ve hesaplamalar bu bölümde verilmelidir.
-
+Veri Toplama Yöntemimiz
+* Deney
+Deneyi Yaptığımız Ortam
+* Sınıf 
+Malzemelerimiz
+* Domino taşı
+Top
+Ip
+Kronometre
+Deneyi Yapanlar
+Oğuz Özün 10D 431
+Beyzanur Şimsek 10D 423
+Yöntemimiz
+Domino taşlarını ikişer santim aralıklarla dizdik ve domino taşları 2.7 saniye içinde devrildi.Daha sonra domino taşları arasındaki mesafeyi 2,5 santime çıkardık ve domino taşları bu sefer 3.9 saniyede devrildiler.
 # Bulgular (Results)
-Burda yaptığınız başlangıç deneyinin sonuçlarını yazacaksınız. Yapacağınız deneyinin başarılı veya başarısız olması önemli değildir. 10 Mayıs 2017'ye kadar projeyinizi geliştirmeniz için izin verilecektir. Fakat yapacağınız IYPT projeniz için bir başlangıç yapmanız gerekmektedir. Basit bir deney olsun ve çok bir zamanını almasın. Yaptığınız deneyin birkaç resmini buraya ekleyiniz ve sonuçları kısaca açıklayın. İleride deneyinizi nasıl geliştereceğinizi anlatın. 
-
-Örnek olarak, bir su birikintisi içinde yanan bir mum bir bardak ile kapatıldığında su seviyesi yükselmektedir. Bu deneyle ilgili bazı resimleri [burdan](https://www.stevespanglerscience.com/lab/experiments/why-does-the-water-rise/) bulabilirsiniz. Sizin de benzer resimler çekmeniz beklenmektedir. Her grup kendi deneyine ait resimleri çekecektir. Başka bir grubun resimleri kullanıldığı takdirde bu bir kopya girişimi olarak kabul edilecektir. 
+Hızı ayarlayamadığımız ve yüksekliği ayarlayamadığımız için deneyimiz başarısız oldu ancak bu adımda mesafe artınca dominoların devrilme süresinin arttığınıda görmüş olduk.
+*Bir sonraki deneyimizde topu sabit bir yerden bırakacağız böylece hız ve yükseklik sorununa çözüm getirmiş olacağız.
 
 
 # Sonuç ve Tartışma (Conclusion and Discussion) 
